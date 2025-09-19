@@ -5,8 +5,8 @@ Manage Subscriptions and RBAC
 
 
 TASKS:
-  Implement management groups.
-  Review and assign a built-in Azure role.
+  1. Implement management groups.
+ 2. Review and assign a built-in Azure role.
   Create a custom RBAC role.
   Monitor role assignments with the activity log.
 
